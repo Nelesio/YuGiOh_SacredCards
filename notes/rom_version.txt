@@ -1,0 +1,14 @@
+# ROM Version Information
+
+- **Region:** (USA/EUR/JP)
+- **Filename:** SacredCards.gba
+- **Size (bytes):**
+- **CRC32:**
+- **SHA1:**
+- **MD5:**
+
+### On macOS
+```bash
+shasum -a 1 SacredCards.gba
+md5 SacredCards.gba
+
